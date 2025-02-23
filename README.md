@@ -7,7 +7,7 @@ INDEX
 
 3: List & tuples
 
-4: Distionary & Set
+4: Dictionary & Set
 
 5: LOOPS
 
